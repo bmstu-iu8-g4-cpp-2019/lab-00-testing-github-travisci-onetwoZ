@@ -1,6 +1,5 @@
+/* Copyright 2019 abc */
 #include <iostream>
-
-copyright 2019 abc
 
 int main() {
     std::cout << "Hello, world!" << std::endl;
